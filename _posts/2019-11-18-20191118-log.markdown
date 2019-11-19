@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "20191118-log"
+date:   2019-11-18
+categories: Log
+---
+Graphql 정리중,
+Apollo 정리예정.
