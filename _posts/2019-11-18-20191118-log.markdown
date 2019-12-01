@@ -2,6 +2,7 @@
 layout: post
 title:  "20191118-log"
 date:   2019-11-18
+published: false
 categories: Log
 ---
 Graphql 정리중,
